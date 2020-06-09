@@ -12,3 +12,5 @@ footer: '&copy; 2020 Kamil Szubrycht'
 
 markdown: kramdown
 remote_theme: b2a3e8/jekyll-theme-console
+
+google_analytics: UA-168998787-1
