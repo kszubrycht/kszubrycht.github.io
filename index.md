@@ -6,4 +6,4 @@ permalink: /
 
 # Welcome
 
-Bla bla bla bla. Bla bla bla bla bla bla bla bla.
+My name is Kamil Szubrycht. I'm software developer coding mainly in Ruby and JavaScript.
