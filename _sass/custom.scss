@@ -1,0 +1,12 @@
+.menu {
+  ul.social-media {
+    float: left;
+    li {
+      a {
+        &:hover, &:visited, &:active {
+          background: none;
+        }
+      }
+    }
+  }
+}
