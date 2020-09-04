@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+<h4>{{ page.title }}</h4>
+
+
+{{ content }}
+
+{% for tags in page.tags %}
+  #{{ tags }}
+{% endfor %}
