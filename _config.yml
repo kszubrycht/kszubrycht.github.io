@@ -1,7 +1,12 @@
-title: szubrycht.pl
-description: Kamil Szubrycht
-baseurl: /
 url: https://szubrycht.pl
+title: szubrycht.pl
+social:
+  name: Kamil Szubrycht
+  links:
+    - https://twitter.com/kamilszubrycht
+    - https://www.linkedin.com/in/kszubrycht
+    - https://github.com/kszubrycht
+baseurl: /
 
 header_pages:
   - index.md
@@ -15,6 +20,6 @@ remote_theme: b2a3e8/jekyll-theme-console
 
 google_analytics: UA-168998787-1
 
-url: "https://szubrycht.pl"
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
